@@ -3,7 +3,7 @@
 # que ele conquistou no final do jogo.
 from random import randrange
 
-print(f"{'-=-' * 10}\n        PAR OU ÍMPAR \n{'-=-' * 10}")
+print(f"{'-=-' * 10} \nPAR OU ÍMPAR \n{'-=-' * 10}")
 vitorias = 0
 
 while True:
